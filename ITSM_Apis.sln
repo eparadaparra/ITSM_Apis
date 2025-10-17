@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITSM_Apis", "ITSM_Apis.csproj", "{ADA84089-3197-4FE9-BC4F-4EC323B4C160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP_ITSM", "..\ERP_ITSM\ERP_ITSM.csproj", "{5F492E5C-AD71-4B54-8FC3-62FE7B0BD18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA84089-3197-4FE9-BC4F-4EC323B4C160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA84089-3197-4FE9-BC4F-4EC323B4C160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA84089-3197-4FE9-BC4F-4EC323B4C160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA84089-3197-4FE9-BC4F-4EC323B4C160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F492E5C-AD71-4B54-8FC3-62FE7B0BD18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F492E5C-AD71-4B54-8FC3-62FE7B0BD18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F492E5C-AD71-4B54-8FC3-62FE7B0BD18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F492E5C-AD71-4B54-8FC3-62FE7B0BD18E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741FF424-74BE-4835-91DF-60C4577AF595}
+	EndGlobalSection
+EndGlobal
